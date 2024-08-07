@@ -22,6 +22,8 @@ The contacts are saved in a JSON file for persistent storage.
 1. Clone the repository:
 
 - git clone https://github.com/azizprodev/contact-book.git
+  
+2. Navigate
 - cd contact-book
 
 ### Usage
