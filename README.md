@@ -29,7 +29,7 @@ The contacts are saved in a JSON file for persistent storage.
 
 ### Functions
 
-- **load_contacts()**
+**load_contacts()**
 Loads contacts from the contacts.json file.
 
 **save_contacts(contacts)**
